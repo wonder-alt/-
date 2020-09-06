@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/9/6 16:37:12。
+     1>项目“C:\b站-c语言工具\代码空间\test--9-5\static\static\static.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>c:\b站-c语言工具\代码空间\test--9-5\static\static\源.c(5): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+     1>已完成生成项目“C:\b站-c语言工具\代码空间\test--9-5\static\static\static.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21
