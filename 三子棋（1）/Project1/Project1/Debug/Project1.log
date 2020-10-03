@@ -1,0 +1,82 @@
+﻿生成启动时间为 2020/10/1 16:03:30。
+     1>项目“C:\b站-c语言工具\代码空间\三子棋（1）\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(16): warning C4013: “intiboard”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(18): warning C4013: “Displayboard”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(22): warning C4013: “playermove”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(25): error C2065: “iswin（）”: 未声明的标识符
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(27): warning C4013: “computermove”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(30): warning C4013: “iswin”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(31): error C2061: 语法错误: 标识符“ret”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(37): error C2043: 非法 break
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(50): error C2059: 语法错误:“}”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\test.c(78): warning C4013: “test”未定义；假设外部返回 int
+         game.c
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(6): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(7): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(8): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(9): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.h(14): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(4): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(4): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(4): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(4): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(32): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(32): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(32): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(32): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(59): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(59): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(59): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(59): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(76): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(76): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(76): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(76): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(91): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(91): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(91): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\三子棋（1）\project1\project1\game.c(91): error C2059: 语法错误:“)”
+         正在生成代码...
+     1>已完成生成项目“C:\b站-c语言工具\代码空间\三子棋（1）\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.10
