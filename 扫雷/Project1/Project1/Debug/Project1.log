@@ -1,0 +1,67 @@
+﻿生成启动时间为 2020/10/3 12:23:12。
+     1>项目“C:\b站-c语言工具\代码空间\扫雷\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(12): warning C4013: “initboard”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(16): warning C4013: “displayboard”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(18): warning C4013: “setmine”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(20): warning C4013: “findmine”未定义；假设外部返回 int
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(29): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(29): error C2198: “srand”: 用于调用的参数太少
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\test.c(29): error C2059: 语法错误:“)”
+         game.c
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(12): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(13): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(14): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.h(15): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(15): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(15): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(15): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(15): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(28): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(28): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(28): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(28): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(46): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(46): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(46): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(46): error C2059: 语法错误:“)”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(60): error C2143: 语法错误 : 缺少“)”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(60): error C2143: 语法错误 : 缺少“{”(在“常量”的前面)
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(60): error C2059: 语法错误:“常量”
+     1>c:\b站-c语言工具\代码空间\扫雷\project1\project1\game.c(60): error C2059: 语法错误:“)”
+         正在生成代码...
+     1>已完成生成项目“C:\b站-c语言工具\代码空间\扫雷\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.06
