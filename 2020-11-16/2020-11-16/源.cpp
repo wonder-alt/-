@@ -148,20 +148,20 @@
 //}
 
 
-//# include <iostream>
-//using namespace std;
-//int main()
-//{
-//	int a[5] = { 1, 2, 3, 4, 5 };
-//	int *p;
-//	p = a;
-//	for (int i = 0; i < 5;i++)
-//	{
-//		cout << *a+i/*p+i*/ << " ";
-//	}
-//	cout << endl;
-//	return 0;
-//}
+# include <iostream>
+using namespace std;
+int main()
+{
+	int a[5] = { 1, 2, 2, 4, 6 };
+	int *p;
+	p = a;
+	for (int i = 0; i < 5;i++)
+	{
+		cout << *(a+i)/*p+i*/ << " ";
+	}
+	cout << endl;
+	return 0;
+}
 
 
 //# include <iostream>
